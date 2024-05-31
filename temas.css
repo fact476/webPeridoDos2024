@@ -1,0 +1,18 @@
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: azure;
+}
+.contenedor{
+   display: flex;
+  
+  
+   
+}
+body{
+    background-image: url("datos.jpg");
+    background-repeat: no-repeat;
+
+}
